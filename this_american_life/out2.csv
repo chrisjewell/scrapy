@@ -2,5 +2,8 @@ episode_hosts,speaker_class,line_id,episode_num_text,year,radio_date_datetime,fu
 ,,,,,,,,,,,"Torey Malatia has supported this show from the start. We'll be back next week, same time, we hope. From WBEZ Chicago, I'm Ira Glass.",01:01:50.29,,
 episode_hosts,speaker_class,line_id,episode_num_text,year,radio_date_datetime,full_audio_link,act_id,episode_id,episode_title,radio_date_text,line_text,begin_timestamp,transcript_url,speaker_name
 ,,,,,,,,,,,"Torey Malatia has supported this show from the start. We'll be back next week, same time, we hope. From WBEZ Chicago, I'm Ira Glass.",01:01:50.29,,
-episode_hosts,speaker_class,line_id,episode_num_text,year,radio_date_datetime,full_audio_link,act_id,episode_id,episode_title,radio_date_text,line_text,begin_timestamp,transcript_url,speaker_name
-,,,,,,,,,,,"Torey Malatia has supported this show from the start. We'll be back next week, same time, we hope. From WBEZ Chicago, I'm Ira Glass.",01:01:50.29,,
+episode_title,speaker_name,line_text,episode_num_text,speaker_class,full_audio_link,radio_date_text,begin_timestamp
+Latest Tweets,Ira Glass,Full audio: http://tal.fm/1,radio-episode-1,menu,Full audio: http://tal.fm/1,Originally aired 11.17.1995,00:00:00.17
+Latest Tweets,Ira Glass,Full audio: http://tal.fm/1,radio-episode-1,column sidebar,Full audio: http://tal.fm/1,Originally aired 11.17.1995,00:00:00.17
+New Beginnings,Ira Glass,Full audio: http://tal.fm/1,radio-episode-1,radio-wrapper,Full audio: http://tal.fm/1,Originally aired 11.17.1995,00:00:00.17
+New Beginnings,Ira Glass,Full audio: http://tal.fm/1,radio-episode-1,radio-wrapper,Full audio: http://tal.fm/1,Originally aired 11.17.1995,00:00:00.17
